@@ -1,0 +1,48 @@
+
+============================================================
+[2026-01-11 18:06:51] Client: user_123
+Sentiment: neutral | Lead Score: warm
+------------------------------------------------------------
+CUSTOMER: How much for a logo?
+BOT: Nuestro precio para un logo va desde $50-100, dependiendo de los detalles y la complejidad del diseño. ¿Te gustaría saber más sobre cómo funciona el proceso de creación de logos con Amilie?
+============================================================
+
+============================================================
+[2026-01-11 18:06:54] Client: user_456
+Sentiment: neutral | Lead Score: warm
+------------------------------------------------------------
+CUSTOMER: What's the delivery time for a VTuber model?
+BOT: So, if you're thinking of ordering a VTuber model, just a heads up that our delivery time is usually around 4-5 business days. If you're interested, I'd love to chat with you more about the details!
+============================================================
+
+============================================================
+[2026-01-11 18:06:57] Client: user_789
+Sentiment: neutral | Lead Score: warm
+------------------------------------------------------------
+CUSTOMER: Do you offer revisions?
+BOT: So, with each of our design services, we actually include 4 revisions - that way, you can be totally sure you'll end up with a result that you're really happy with.
+============================================================
+
+============================================================
+[2026-01-11 18:07:59] Client: user_123
+Sentiment: neutral | Lead Score: warm
+------------------------------------------------------------
+CUSTOMER: How much for a logo?
+BOT: Our logo designs typically start at $50, but can range up to $100, depending on how complex and detailed the design is - would you like me to share some examples with you, or chat a bit about what you're thinking?
+============================================================
+
+============================================================
+[2026-01-11 18:08:03] Client: user_456
+Sentiment: neutral | Lead Score: warm
+------------------------------------------------------------
+CUSTOMER: What's the delivery time for a VTuber model?
+BOT: So, just to give you an idea, our typical turnaround time for a VTuber model is around 4-5 business days. We'll get started on your design ASAP and make sure to get it to you as soon as possible!
+============================================================
+
+============================================================
+[2026-01-11 18:08:06] Client: user_789
+Sentiment: neutral | Lead Score: warm
+------------------------------------------------------------
+CUSTOMER: Do you offer revisions?
+BOT: So, with every order, we throw in 4 revisions - that way, you can be totally sure you love your design, whether it's a logo, a banner, or a VTuber model.
+============================================================
