@@ -1,4 +1,4 @@
-# amilie - Instagram Auto-Reply Bot
+# amilie - Instagram Auto-Replyer 
 
 An AI-powered Instagram DM assistant that automatically generates smart replies for your business.
 
@@ -102,3 +102,7 @@ MIT License
 ---
 
 Made with AI by amilie
+
+#Video link
+https://youtu.be/FtMpcVDxxzw?si=6K-yDlNwhtD2dIgg
+
