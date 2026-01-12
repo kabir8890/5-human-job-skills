@@ -101,8 +101,6 @@ MIT License
 
 ---
 
-Made with AI by amilie
-
-#Video link
+# Video link
 https://youtu.be/FtMpcVDxxzw?si=6K-yDlNwhtD2dIgg
 
